@@ -36,10 +36,6 @@ const Product = () => {
         setSearch(data.ProductName);
     }
 
-    // // Handle input changes
-    // const handleChange = (event) => {
-    //     setSearch(event.target.value);
-    // };
 
 
     //Get All Product 
