@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const axiosPublic = axios.create({baseURL:"https://ecoma-lyart.vercel.app"}); //vercel url ta bosbe
+const axiosPublic = axios.create({ baseURL: "http://localhost:7000/" }); //vercel url ta bosbe
 
 const useAxiosPublic = () => {
   return axiosPublic;

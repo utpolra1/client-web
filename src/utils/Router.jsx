@@ -10,8 +10,6 @@ import SignUp from "../pages/signUp/signUp";
 import AboutUs from "../Components/aboutUs/aboutUs";
 import HomeCompont from "../Components/home/HomeCompont";
 import Product from "../pages/products/Product";
-import Contract from "../pages/Contract/Contract";
-
 
 export const router = createBrowserRouter([
   {
@@ -32,10 +30,6 @@ export const router = createBrowserRouter([
         {
             path: "/products",
             element: <Product/>,
-        },
-        {
-          path:"/contact",
-          element:<Contract></Contract>
         },
         {
             path: "/signin",
