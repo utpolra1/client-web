@@ -25,7 +25,7 @@ const Product = () => {
                 setTotalItems(res.data.total);
             })
             .catch(err => console.error(err));
-    }, [axiosPublic,currentPage, parPage]); // যখনই পেজ বা পৃষ্ঠার আইটেম সংখ্যা পরিবর্তিত হবে
+    }, [axiosPublic,currentPage, parPage]);
 
 
 
