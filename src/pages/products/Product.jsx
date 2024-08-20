@@ -138,11 +138,45 @@ const Product = () => {
                     <div className="h-10 w-full">
                         <p className="w-52">Product Name Filter</p>
                         <select value={brandName} onChange={handleBrandName} className="bg-[#0cc4b0] text-white">
-                            {/* Add more options as needed */}
-                            <option value="">Filtering</option>
-                            <option value="Electronics">Electronics</option>
-                            <option value="Woman Dress">Woman Dress</option>
-                            <option value="Man Dress">Man Dress</option>
+                        <option value="Men T-shirt">Men T-shirt</option>
+                            <option value="Wireless Watch">Wireless Watch</option>
+                            <option value="Smart TV">Smart TV</option>
+                            <option value="Wireless Men Watch">Wireless Men Watch</option>
+                            <option value="Orage Thri Paish">Orage Thri Paish</option>
+                            <option value="New 2023 Shirts Men">New 2023 Shirts Men </option>
+                            <option value="Women Multicolor">Women Multicolor</option>
+                            <option value="Watch Smartwatch">Watch Smartwatch</option>
+                            <option value="Dslr Camera on White Surface">Dslr Camera</option>
+                            <option value="HY Shirt Men 2020 Fall Men s Slim Long Sleeve Shirt Casual Fashion">HY Shirt Men</option>
+                            <option value="Apple introduces i Phone 12">i Phone 12</option>
+                            <option value="Fashion Big Size M5 XL Mens Long Sleeve Casual Shirt High Quality">Fashion Big Size</option>
+                            <option value="Premium Solid Color Formal Shirt For Men UR Fashion">Premium Formal Shirt</option>
+                            <option value="Three Piece Dress With Embroidery">Three Piece Dress</option>
+                            <option value="Xiaomi Mi Band 8 NFC Metal magnetic wristband Miband8 smartwatch">Xiaomi Mi Band</option>
+                            <option value="Jam Color Half Silk Saree – Matribhumi Fashion">Jam Half Silk Saree</option>
+                            <option value="Best Watches For Men Fashonation">Best Watches For Men</option>
+                            <option value="Wedding Silk Saree for Brides Find Best Bridal Sarees BharatSthali">Wedding Silk Saree</option>
+                            <option value="The best TV 2024 chosen by our reviewers for all budgets Tech Radar">The best TV 2024</option>
+                            <option value="J.VER Men's Dress Shirts Solid Long">J.VER Mens Dress Shirts</option>
+                            <option value="Cotton Batik Three Piece MT 2197 SMT">Cotton Batik Three Piece</option>
+                            <option value="vivo v30">vivo v30</option>
+                            <option value="New 2023 Shirts Men">New 2023 Shirts Men</option>
+                            <option value="Xiaomi 14">Xiaomi 14</option>
+                            <option value="Cotton Three Piece For Women">Cotton Three Piece</option>
+                            <option value="Xiaomi Mi TV P1 32 inch Android HD Tv With 12 Months Warranty">Xiaomi Mi TV</option>
+                            <option value="HUAWEI Wearables HUAWEI Bangladesh">HUAWEI Wearables</option>
+                            <option value="Long Sleeve Stylish Shirt">Long Sleeve Shirt</option>
+                            <option value="Xiaomi 14 Ultra Xiaomi Global">Xiaomi 14 Ultra</option>
+                            <option value="i Phone SE">i Phone SE</option>
+                            <option value="Rajshahi Samu Silk Saree Price in Bangladesh Bostro by Diamu">Samu Silk Saree </option>
+                            <option value="Xiaomi 13 Ultra">Xiaomi 13 Ultra</option>
+                            <option value="Ladies Three Piece Dk Red">Ladies Three Piece</option>
+                            <option value="Garmin Bounce Smartwatch for Kids">Garmin Smartwatch</option>
+                            <option value="POEDAGAR Chronograph Watch for Men 988 ICONIC SHOP">POEDAGAR Watch</option>
+                            <option value="Apple Watch Apple">Apple Watch Apple</option>
+                            <option value="The best cameras in 2024 Tom's Guide">The best cameras</option>
+                            <option value="Black Transistor Beside Capacitor">Black Transistor</option>
+                            <option value="Yasuka 43 Inch FHD Frameless Android Smart LED TV">Android Smart TV</option>
                         </select>
                     </div>
 
