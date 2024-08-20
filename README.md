@@ -39,12 +39,12 @@ This project is a single-page web application built using the MERN stack (MongoD
 
 ### Live Website
 
-- The project is deployed at: [Live Website Link]
+- The project is deployed at: [Live Website Link](https://e-commerce-project-batch9.web.app/)
 
 ### Repository Links
 
-- **Frontend Repository:** [Frontend Repo Link]
-- **Backend Repository:** [Backend Repo Link]
+- **Frontend Repository:** [Frontend Repo Link](https://github.com/utpolra1/client-web)
+- **Backend Repository:** [Backend Repo Link](https://github.com/utpolra1/Backend)
 
 ## Project Structure
 
