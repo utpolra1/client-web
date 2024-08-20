@@ -140,7 +140,9 @@ const Product = () => {
                         <select value={brandName} onChange={handleBrandName} className="bg-[#0cc4b0] text-white">
                             {/* Add more options as needed */}
                             <option value="">Filtering</option>
-                            {/* ... other options ... */}
+                            <option value="Electronics">Electronics</option>
+                            <option value="Woman Dress">Woman Dress</option>
+                            <option value="Man Dress">Man Dress</option>
                         </select>
                     </div>
 
@@ -148,7 +150,6 @@ const Product = () => {
                         <p className="w-52">Price Filter</p>
                         <select value={category} onChange={handleCategory} className="bg-[#0cc4b0] text-white">
                             <option value="">Filtering</option>
-                            {/* Add price filter options */}
                         </select>
                     </div>
                 </div>
